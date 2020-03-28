@@ -89,6 +89,62 @@
       "date": "2019-11-22T14:53:00.000Z",
       "time": "10:00",
       "attendees": []
+    },
+    {
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "New Event",
+      "description": "Testing Veux",
+      "location": "Here",
+      "date": "2020-03-04T03:34:00.000Z",
+      "time": "8:00",
+      "attendees": [],
+      "id": 654043
+    },
+    {
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Adopt Some Pups",
+      "description": "adoption",
+      "location": "Here",
+      "date": "2020-03-26T08:34:00.000Z",
+      "time": "15:00",
+      "attendees": [],
+      "id": 654044
+    },
+    {
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "asdf",
+      "description": "asdf",
+      "location": "asdf",
+      "date": "2020-03-10T08:36:00.000Z",
+      "time": "17:00",
+      "attendees": [],
+      "id": 654045
+    },
+    {
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "comm event",
+      "description": "comm event",
+      "location": "there",
+      "date": "2020-03-19T08:39:00.000Z",
+      "time": "19:00",
+      "attendees": [],
+      "id": 654046
     }
   ]
 }
